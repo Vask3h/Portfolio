@@ -1,7 +1,7 @@
 <template>
   <li>
     <nuxt-link
-        class="block cursor-pointer py-2 px-3 rounded md:border-0  md:p-0 text-white md:hover:text-yellow-500 hover:bg-gray-700 hover:text-white md:hover:bg-transparent"
+        class="block cursor-pointer text-white transition ease-out duration-700 hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-500 hover:via-red-500 hover:to-yellow-500 "
         to=""
     >
       {{ text }}
