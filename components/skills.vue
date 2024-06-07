@@ -1,5 +1,5 @@
 <template>
-<div>
+<div id="skills" class="h-screen" >
 
 </div>
 </template>

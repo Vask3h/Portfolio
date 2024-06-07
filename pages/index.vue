@@ -1,6 +1,7 @@
 <template>
 
   <presentation/>
+  <skills/>
   <div class="w-1 h-[500px]">
 
   </div>
