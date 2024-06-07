@@ -1,9 +1,11 @@
 <template>
+
   <presentation/>
-  <div class="w-1 h-[5000px]" >
+  <div class="w-1 h-[500px]">
 
   </div>
-<generic-foot/>
+  <generic-foot/>
+
 </template>
 <script>
 import {defineComponent} from "vue";
